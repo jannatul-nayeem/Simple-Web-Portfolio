@@ -14,6 +14,10 @@ p{
 .orange-highlight{
     color: orange;
 }
+section{
+    height:500px;
+    padding-bottom: 150px;
+}
 /* half width of div style */
 .half-width{
     width: 40%;
@@ -29,10 +33,7 @@ p{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-section{
-    height:500px;
-    padding-bottom: 150px;
-}
+
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(45deg,lightsalmon,tomato);
@@ -48,13 +49,13 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+/* experience area section style */
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
     height: 80%;
     background-color: white;
 }
-/* experience area section style */
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
